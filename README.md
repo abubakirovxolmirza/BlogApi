@@ -1,9 +1,6 @@
 # Blog App RESTful API Documentation
-<<<<<<< HEAD
-=======
 Bu dokumentatsiya Blog App RESTful API uchun tuzilgan. Ushbu API orqali bloglar yaratish, o'qish, yangilash va o'chirish mumkin.
 > Avvalo admin panekdan user yaratib oling! agar erinsangiz <author> o'zingizga yoqqan usernamengizni yozsangiz avtomatik user yaratadi )
->>>>>>> 904d3889af48ac901cc244b0c0efa4c37d6a5bc9
 ```bash
 git clone https://github.com/abubakirovxolmirza/BlogApi
 ```
@@ -32,15 +29,4 @@ docker buld -t blog:1.0
 ![img5](blog/image/readme_img/delete.png)
 ## {username} li odamni profilini ko’rsatish
 ![img6](blog/image/readme_img/user.png)
-<<<<<<< HEAD
-=======
-### `POST /api/blogs/`
 
-
-
-
-
-
-=======
-+ modelsga test yozilgan.
->>>>>>> 904d3889af48ac901cc244b0c0efa4c37d6a5bc9
