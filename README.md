@@ -14,7 +14,7 @@ docker run -p 1212:8000 blog:1.0
 - `created_at` (datetime): Blog yaratilgan vaqti.
 - `author` (string): Blog ni yaratgan foydalanuvchining usernamesi.
 
-## HTTP So'rovlari va Javoblari
+## HTTP so'rovlari va Javoblari
 
 ## Yangi blog post yaratish
 ![img1](blog/image/readme_img/new.png)
